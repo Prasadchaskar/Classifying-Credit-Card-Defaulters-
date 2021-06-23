@@ -1,4 +1,8 @@
 # Classifying-Credit-Card-Defaulters-
+## Libraries Used
+1) Pandas --- pip install pandas
+2) matplotlib --- pip install matplotlib
+3) sklearn --- pip install scikit-learn
 
 ## Introduction
 ## About the dataset:
@@ -48,3 +52,7 @@ This notebook consisits of the following parts:
 
 4) Conclusion
 
+
+Thanks for sticking till the end.
+
+Hope you enjoyed this notebook :)
